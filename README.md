@@ -1,13 +1,13 @@
 # Umut Alp Tuglu
 
-I enjoy learning more about life and software. Here you can learn more about my software history so far, my passion, and some Linux/DevOps related Code in public repos:
+I enjoy learning about life and software. Here you can learn more about my software history so far, my passion, and some Linux/DevOps related Code in public repos:
 
 Around 2022 I changed my OS from Windows to Ubuntu and fell in love with Linux and the terminal.
 At the same time, I was doing my first steps in the world of containers, pipelines, and in the cloud (Azure) in a startup. After my first steps, I went one step up with my OS, switching to Xubuntu with i3 window manager, and learned the power of configuration.
 After this, I went all in and thanks to my friend Rob, I got myself Arch Linux with the goal in mind to only live in the terminal. At the beginning, I needed weeks to configure stuff like bluetooth, sound, etc., but eventually learned more and even deep dived into the world of Nix. Once you realize you cannot break your system and rollback to previous generations, you also get more confident in trying more advanced stuff out.
 At the exact same time of my Arch and Nix adventures, in my master thesis I deep dived even further into the world of DevOps (especially Kubernetes, Helm, CRDs, ROS) and learned about orchestration and package management/application registries from a conceptual and top-level point of view in the field of robotics and Internet of Vehicles. I was part of the [RobotKube project](https://arxiv.org/abs/2308.07053) and improved the application manager substantially and implemented the first version of an application registry in the C-ITS domain, for anyone interested reading the paper.
 
-Luckily, I was always surrounded by people really fascinated by software and motivated to teach me, which I will always be thankful for. Without my mentors/people I learned from, especially in my and their free time, I would not have arrived at this point. Special shoutout to my dear friends Rob, Tobi, and Felix who helped me the most in the software world.
+Luckily, I was always surrounded by people really fascinated by software and motivated to teach me, which I will always be thankful for. Without my mentors/people I learned from, especially in my and their free time, I would not have arrived at this point. Special shoutout to my dear friends Rob, Tobi, and Felix who helped me the most!
 
 I am genuinely motivated to improve my skills in the above mentioned fields, and in particular, I am enthusiastic about learning more about the world of Linux, Kubernetes and Cloud technologies.
 
