@@ -13,7 +13,7 @@ I am genuinely motivated to improve my skills in the above mentioned fields, and
 
 ## Things I am working on
 
-### dotfiles
+### nix-dotfiles
 
 My Nix HomeManager Flakes I use on top of my Arch host. These files showcase my declarative configuration and Linux skills as well as my frustration tolerance.
 
