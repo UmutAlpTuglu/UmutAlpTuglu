@@ -1,6 +1,6 @@
-# Umut
+# GitHub Profile
 
-I enjoy learning about life and software. Here you can learn more about my software history so far, my passion, and some Linux/DevOps related Code in public repos:
+My name is Umut and I enjoy learning about life and software. Here you can learn more about my software history so far, my passion, and some Linux/DevOps related Code in public repos:
 
 Around 2022 I changed my OS from Windows to Ubuntu and fell in love with Linux and the terminal.
 At the same time, I was doing my first steps in the world of containers, pipelines, and in the cloud (Azure) in a startup. After my first steps, I went one step up with my OS, switching to Xubuntu with i3 window manager, and learned the power of configuration.
