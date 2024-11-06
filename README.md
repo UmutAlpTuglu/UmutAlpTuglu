@@ -1,4 +1,4 @@
-# Umut Alp Tuglu
+# Umut
 
 I enjoy learning about life and software. Here you can learn more about my software history so far, my passion, and some Linux/DevOps related Code in public repos:
 
